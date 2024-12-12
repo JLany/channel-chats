@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/notifications/notify/new-channel
+Content-Type: application/json
+
+{
+  "channelName": "Nigger from Hell"
+}
